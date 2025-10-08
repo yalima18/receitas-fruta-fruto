@@ -1,4 +1,5 @@
 🍓 Projeto: Fruta & Fruto Receitas
+
 📝 Sobre o projeto
 
 Este é um projeto de Landing Page responsiva desenvolvido com Bootstrap 4, criado a partir de um modelo visual em PNG. O site Fruta & Fruto Receitas apresenta uma página moderna e funcional, construída para se adaptar perfeitamente a diferentes tamanhos de tela, explorando os principais componentes do framework.
